@@ -47,17 +47,28 @@ Los tres proyectos financieros forman un ecosistema de demostración: Loan Origi
 
 ## Tecnologías
 
+<p>
+  <img src="assets/java.svg" alt="Java" width="32" height="32" />&nbsp;&nbsp;
+  <img src="assets/kotlin.svg" alt="Kotlin" width="32" height="32" />&nbsp;&nbsp;
+  <img src="assets/spring.svg" alt="Spring" width="32" height="32" />&nbsp;&nbsp;
+  <img src="assets/quarkus.svg" alt="Quarkus" width="32" height="32" />&nbsp;&nbsp;
+  <img src="assets/go.svg" alt="Go" width="32" height="32" />&nbsp;&nbsp;
+  <img src="assets/angular.svg" alt="Angular" width="32" height="32" />&nbsp;&nbsp;
+  <img src="assets/react.svg" alt="React" width="32" height="32" />&nbsp;&nbsp;
+  <img src="assets/typescript.svg" alt="TypeScript" width="32" height="32" />&nbsp;&nbsp;
+  <img src="assets/postgresql.svg" alt="PostgreSQL" width="32" height="32" />&nbsp;&nbsp;
+  <img src="assets/docker.svg" alt="Docker" width="32" height="32" />
+</p>
+
 | Área | Herramientas y conceptos |
 | :--- | :--- |
-| Backend | ![Java][java] ![Kotlin][kotlin] ![Spring Boot][spring] ![Quarkus][quarkus] ![Go][go] |
-| Frontend | ![Angular][angular] ![React][react] ![TypeScript][typescript] |
-| Datos y mensajería | ![PostgreSQL][postgresql] ![Oracle][oracle] ![SQL][sql] ![Flyway][flyway] ![Kafka][kafka] |
+| Backend | Java, Kotlin, Spring Boot, Quarkus, Go |
+| Frontend | Angular, React, TypeScript |
+| Datos y mensajería | PostgreSQL, Oracle, SQL, Flyway, Kafka |
 | Arquitectura | Hexagonal, por capas, microservicios, modelado de dominio |
-| Infraestructura | ![Docker][docker] ![Linux][linux] ![CI/CD][cicd] ![GitLab][gitlab] |
+| Infraestructura | Docker, Linux, CI/CD, GitLab |
 
-**También trabajo con**
-
-![AWS][aws] ![Python][python] ![Excel][excel] ![Power BI][powerbi]
+**También trabajo con:** AWS, Python, Excel y Power BI.
 
 <details>
 <summary>English overview</summary>
@@ -72,24 +83,15 @@ You can find project documentation in the repositories above, or reach me throug
 
 </details>
 
-[java]: https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white
-[kotlin]: https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white
-[spring]: https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white
-[quarkus]: https://img.shields.io/badge/Quarkus-4695EB?style=flat&logo=quarkus&logoColor=white
-[go]: https://img.shields.io/badge/Go-007D9C?style=flat&logo=go&logoColor=white
-[angular]: https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white
-[react]: https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB
-[typescript]: https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white
-[postgresql]: https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white
-[oracle]: https://img.shields.io/badge/Oracle-C74634?style=flat
-[sql]: https://img.shields.io/badge/SQL-475569?style=flat
-[flyway]: https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white
-[kafka]: https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white
-[docker]: https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white
-[linux]: https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=FCC624
-[cicd]: https://img.shields.io/badge/CI%2FCD-475569?style=flat
-[gitlab]: https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white
-[aws]: https://img.shields.io/badge/AWS-232F3E?style=flat
-[python]: https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white
-[excel]: https://img.shields.io/badge/Excel-217346?style=flat
-[powerbi]: https://img.shields.io/badge/Power_BI-F2C811?style=flat
+[java]: https://img.shields.io/badge/Java-64748B?style=flat&logo=openjdk&logoColor=white
+[kotlin]: https://img.shields.io/badge/Kotlin-64748B?style=flat&logo=kotlin&logoColor=white
+[spring]: https://img.shields.io/badge/Spring_Boot-64748B?style=flat&logo=springboot&logoColor=white
+[quarkus]: https://img.shields.io/badge/Quarkus-64748B?style=flat&logo=quarkus&logoColor=white
+[go]: https://img.shields.io/badge/Go-64748B?style=flat&logo=go&logoColor=white
+[angular]: https://img.shields.io/badge/Angular-64748B?style=flat&logo=angular&logoColor=white
+[react]: https://img.shields.io/badge/React-64748B?style=flat&logo=react&logoColor=white
+[typescript]: https://img.shields.io/badge/TypeScript-64748B?style=flat&logo=typescript&logoColor=white
+[postgresql]: https://img.shields.io/badge/PostgreSQL-64748B?style=flat&logo=postgresql&logoColor=white
+[kafka]: https://img.shields.io/badge/Kafka-64748B?style=flat&logo=apachekafka&logoColor=white
+[docker]: https://img.shields.io/badge/Docker-64748B?style=flat&logo=docker&logoColor=white
+
