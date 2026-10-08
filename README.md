@@ -29,19 +29,19 @@ Compuesta por tres proyectos:
 
 Aplicación de demostración del proceso de préstamos: solicitudes, evaluación, ofertas, desembolsos y cuotas. Arquitectura hexagonal, acceso por roles, auditoría e idempotencia.
 
-![Java][java] ![Quarkus][quarkus] ![PostgreSQL][postgresql] ![Kafka][kafka] ![React][react] ![TypeScript][typescript]
+![Java][java] ![Quarkus][quarkus] ![PostgreSQL][postgresql] ![Kafka][kafka] ![React][react] ![TypeScript][typescript] ![Docker][docker]
 
 ### [Credit Risk Engine](https://github.com/youngnicoJava/credit-risk-engine)
 
 Servicio de evaluación crediticia con políticas versionadas. Analiza elegibilidad y capacidad de pago, y conserva los motivos de cada decisión. Incluye una consola para consultar evaluaciones y sus factores de scoring.
 
-![Java][java] ![Quarkus][quarkus] ![PostgreSQL][postgresql] ![Kafka][kafka] ![React][react] ![TypeScript][typescript]
+![Java][java] ![Quarkus][quarkus] ![PostgreSQL][postgresql] ![Kafka][kafka] ![React][react] ![TypeScript][typescript] ![Docker][docker]
 
 ### [Fraud Detection Engine](https://github.com/youngnicoJava/fraud-detection-engine)
 
 Servicio que evalúa señales de comportamiento sospechoso mediante reglas deterministas. Incluye investigación manual, resolución de casos e historial auditable, con arquitectura modular por capas.
 
-![Java][java] ![Quarkus][quarkus] ![PostgreSQL][postgresql] ![Kafka][kafka] ![React][react] ![TypeScript][typescript]
+![Java][java] ![Quarkus][quarkus] ![PostgreSQL][postgresql] ![Kafka][kafka] ![React][react] ![TypeScript][typescript] ![Docker][docker]
 
 Los tres proyectos financieros forman un ecosistema de demostración: Loan Origination gestiona el préstamo, Credit Risk evalúa el perfil financiero y Fraud Detection analiza señales e investigación. Se integran por Kafka y mantienen bases de datos independientes.
 
@@ -83,15 +83,14 @@ You can find project documentation in the repositories above, or reach me throug
 
 </details>
 
-[java]: https://img.shields.io/badge/Java-64748B?style=flat&logo=openjdk&logoColor=white
-[kotlin]: https://img.shields.io/badge/Kotlin-64748B?style=flat&logo=kotlin&logoColor=white
-[spring]: https://img.shields.io/badge/Spring_Boot-64748B?style=flat&logo=springboot&logoColor=white
-[quarkus]: https://img.shields.io/badge/Quarkus-64748B?style=flat&logo=quarkus&logoColor=white
-[go]: https://img.shields.io/badge/Go-64748B?style=flat&logo=go&logoColor=white
-[angular]: https://img.shields.io/badge/Angular-64748B?style=flat&logo=angular&logoColor=white
-[react]: https://img.shields.io/badge/React-64748B?style=flat&logo=react&logoColor=white
-[typescript]: https://img.shields.io/badge/TypeScript-64748B?style=flat&logo=typescript&logoColor=white
-[postgresql]: https://img.shields.io/badge/PostgreSQL-64748B?style=flat&logo=postgresql&logoColor=white
-[kafka]: https://img.shields.io/badge/Kafka-64748B?style=flat&logo=apachekafka&logoColor=white
-[docker]: https://img.shields.io/badge/Docker-64748B?style=flat&logo=docker&logoColor=white
-
+[java]: https://img.shields.io/badge/Java-64748B?style=flat&logo=openjdk&logoColor=F89820
+[kotlin]: https://img.shields.io/badge/Kotlin-64748B?style=flat&logo=kotlin&logoColor=C4A4FF
+[spring]: https://img.shields.io/badge/Spring_Boot-64748B?style=flat&logo=springboot&logoColor=A3D977
+[quarkus]: https://img.shields.io/badge/Quarkus-64748B?style=flat&logo=quarkus&logoColor=80C7FF
+[go]: https://img.shields.io/badge/Go-64748B?style=flat&logo=go&logoColor=66DBEF
+[angular]: https://img.shields.io/badge/Angular-64748B?style=flat&logo=angular&logoColor=FF9CA9
+[react]: https://img.shields.io/badge/React-64748B?style=flat&logo=react&logoColor=61DAFB
+[typescript]: https://img.shields.io/badge/TypeScript-64748B?style=flat&logo=typescript&logoColor=A4CEFF
+[postgresql]: https://img.shields.io/badge/PostgreSQL-64748B?style=flat&logo=postgresql&logoColor=B2D3F0
+[kafka]: https://img.shields.io/badge/Kafka-64748B?style=flat&logo=apachekafka&logoColor=F5F5F5
+[docker]: https://img.shields.io/badge/Docker-64748B?style=flat&logo=docker&logoColor=85CAFF
