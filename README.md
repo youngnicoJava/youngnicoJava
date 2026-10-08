@@ -83,14 +83,14 @@ You can find project documentation in the repositories above, or reach me throug
 
 </details>
 
-[java]: https://img.shields.io/badge/Java-64748B?style=flat&logo=openjdk&logoColor=F89820
-[kotlin]: https://img.shields.io/badge/Kotlin-64748B?style=flat&logo=kotlin&logoColor=C4A4FF
-[spring]: https://img.shields.io/badge/Spring_Boot-64748B?style=flat&logo=springboot&logoColor=A3D977
-[quarkus]: https://img.shields.io/badge/Quarkus-64748B?style=flat&logo=quarkus&logoColor=80C7FF
-[go]: https://img.shields.io/badge/Go-64748B?style=flat&logo=go&logoColor=66DBEF
-[angular]: https://img.shields.io/badge/Angular-64748B?style=flat&logo=angular&logoColor=FF9CA9
-[react]: https://img.shields.io/badge/React-64748B?style=flat&logo=react&logoColor=61DAFB
-[typescript]: https://img.shields.io/badge/TypeScript-64748B?style=flat&logo=typescript&logoColor=A4CEFF
-[postgresql]: https://img.shields.io/badge/PostgreSQL-64748B?style=flat&logo=postgresql&logoColor=B2D3F0
-[kafka]: https://img.shields.io/badge/Kafka-64748B?style=flat&logo=apachekafka&logoColor=F5F5F5
-[docker]: https://img.shields.io/badge/Docker-64748B?style=flat&logo=docker&logoColor=85CAFF
+[java]: https://img.shields.io/badge/Java-252A34?style=flat&logo=openjdk&logoColor=F89820
+[kotlin]: https://img.shields.io/badge/Kotlin-252A34?style=flat&logo=kotlin&logoColor=C4A4FF
+[spring]: https://img.shields.io/badge/Spring_Boot-252A34?style=flat&logo=springboot&logoColor=A3D977
+[quarkus]: https://img.shields.io/badge/Quarkus-252A34?style=flat&logo=quarkus&logoColor=80C7FF
+[go]: https://img.shields.io/badge/Go-252A34?style=flat&logo=go&logoColor=66DBEF
+[angular]: https://img.shields.io/badge/Angular-252A34?style=flat&logo=angular&logoColor=FF9CA9
+[react]: https://img.shields.io/badge/React-252A34?style=flat&logo=react&logoColor=61DAFB
+[typescript]: https://img.shields.io/badge/TypeScript-252A34?style=flat&logo=typescript&logoColor=A4CEFF
+[postgresql]: https://img.shields.io/badge/PostgreSQL-252A34?style=flat&logo=postgresql&logoColor=B2D3F0
+[kafka]: https://img.shields.io/badge/Kafka-252A34?style=flat&logo=apachekafka&logoColor=F5F5F5
+[docker]: https://img.shields.io/badge/Docker-252A34?style=flat&logo=docker&logoColor=85CAFF
