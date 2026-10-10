@@ -7,7 +7,7 @@ Desarrollo aplicaciones con Java, Kotlin y TypeScript. Mi stack principal incluy
 
 [LinkedIn](https://www.linkedin.com/in/axel-fecha-225837274/) · [Email](mailto:axel.fecha.cit@gmail.com)
 
-**Portfolio:** enlace por agregar.
+[Portfolio](https://portfolio-axel-five.vercel.app/)
 
 ---
 
